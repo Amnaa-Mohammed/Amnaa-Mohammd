@@ -3,19 +3,22 @@
   <a href="https://github.com/amnaa-mohammed">
     <img src="https://github-readme-stats.vercel.app/api?username=amnaa-mohammed&show_icons=true&theme=radical&title_color=ff80bf&icon_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaa-mohammed&layout=compact&theme=radical&title_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
-  </a> 
-
-### ✨ Code Cycle
+  </a>
+  ### 💌 Contact With Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+
+<a href="https://www.linkedin.com/in/amnaa-mohammed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:amnaazahran00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
-<details>
+
 <p><strong><summary>✨ “Design. Develop. Deploy. Repeat.” ✨</summary></strong></p>
 
 
@@ -28,7 +31,7 @@
 - 💡 I love turning ideas into reality through code.  
 - 🌍 Based in **Egypt**, working with modern web technologies.  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, or UI/UX design.**  
-- 🎨 Currently exploring **Next.js** & **Tailwind CSS**.  
+- 🎨 Currently exploring **Next.js** & **TypeScript**.  
 - ⚡ Fun fact: “I debug my CSS like a detective at 3 AM 👀.”
 
 ---
@@ -53,7 +56,9 @@
 // tools_I_use organized
 
 const myTools = {  
-  "Frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js", "TailwindCSS", "Bootstrap"],
+  "Frontend": ["HTML", "CSS", "JavaScript", "React.js", "TailwindCSS", "Bootstrap"],
+  "Backend & Full-Stack": ["Python", "Django", "Java", "C++", "C#", "OOP", "SOLID Principles"],
+  "Databases": ["MySQL", "PostgreSQL", "Oracle", "Database Management"],
   "Design": ["Figma", "Canva", "Photoshop"],
   "Version Control": ["Git", "GitHub"],
   "Editor": ["VS Code"],
@@ -61,16 +66,3 @@ const myTools = {
 };
 
 
-### 💌 Contact With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/amnaa-mohammed" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:amnaa.mohammed@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
