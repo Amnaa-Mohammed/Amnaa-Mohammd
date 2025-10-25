@@ -1,12 +1,7 @@
 <div align="center" width="50">
-
-  <a href="https://github.com/amnaa-mohammed">
-    <img src="https://github-readme-stats.vercel.app/api?username=amnaa-mohammed&show_icons=true&theme=radical&title_color=ff80bf&icon_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaa-mohammed&layout=compact&theme=radical&title_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
-  </a>
-  ### 💌 Contact With Me
-
-<div align="center">
+<h1 style="color:#ff80bf; font-weight:700; margin-bottom:6px;">
+    Hi, Developers 👋 I’m Amnaa Mohammed!
+  </h1>
 
 <a href="https://www.linkedin.com/in/amnaa-mohammed" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,8 +10,6 @@
 <a href="mailto:amnaazahran00@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</div>
 
 
 <p><strong><summary>✨ “Design. Develop. Deploy. Repeat.” ✨</summary></strong></p>
@@ -52,6 +45,12 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
+
+ <a href="https://github.com/amnaa-mohammed">
+    <img src="https://github-readme-stats.vercel.app/api?username=amnaa-mohammed&show_icons=true&theme=radical&title_color=ff80bf&icon_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaa-mohammed&layout=compact&theme=radical&title_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
+  </a>
+
 ```js
 // tools_I_use organized
 
@@ -64,5 +63,6 @@ const myTools = {
   "Editor": ["VS Code"],
   "Currently Learning": ["TypeScript", "Next.js"]
 };
+
 
 
