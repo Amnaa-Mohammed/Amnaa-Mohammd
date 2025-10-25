@@ -1,17 +1,23 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+  <a href="https://github.com/amnaa-mohammed">
+    <img src="https://github-readme-stats.vercel.app/api?username=amnaa-mohammed&show_icons=true&theme=radical&title_color=ff80bf&icon_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaa-mohammed&layout=compact&theme=radical&title_color=ff80bf&text_color=ffffff&bg_color=141321" width="45%"/>
+  </a> 
+
+### ✨ Code Cycle
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</div>
 
 <details>
-<p><strong><summary> Busy coding & vibing to 🎧 </summary></strong></p>
+<p><strong><summary>✨ “Design. Develop. Deploy. Repeat.” ✨</summary></strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)  
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=amnaa-mohammed&style=flat&color=ff69b4&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famnaa-mohammed&count_bg=%23ff69b4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/AmnaaMohammed-grey?style=flat&logo=telegram)](https://t.me/yourtelegramusername)
 
 </div>
 
@@ -53,3 +59,18 @@ const myTools = {
   "Editor": ["VS Code"],
   "Currently Learning": ["TypeScript", "Next.js"]
 };
+
+
+### 💌 Contact With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amnaa-mohammed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:amnaa.mohammed@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
